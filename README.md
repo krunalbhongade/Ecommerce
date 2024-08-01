@@ -5,3 +5,4 @@ a.Components/header
 i.home
 =>banner.jsx
 =>home.jsx
+=>navbar.jsx
