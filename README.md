@@ -10,3 +10,4 @@ i.home
 =>home.jsx
 =>navbar.jsx
 b.constants
+=>data.jsx
