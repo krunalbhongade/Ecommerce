@@ -9,3 +9,4 @@ i.home
 =>banner.jsx
 =>home.jsx
 =>navbar.jsx
+b.constants
