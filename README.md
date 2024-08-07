@@ -11,5 +11,5 @@ i.home
 =>navbar.jsx
 b.constants
 =>data.jsx
-Server
+*Server*
 i.
